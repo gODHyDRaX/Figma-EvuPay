@@ -1,0 +1,64 @@
+.login{
+    width: 41.4rem;
+    height: 89.6rem;
+    border-radius: 2%;
+    border: 1rem solid black;
+    margin: auto;
+}
+.logo{
+    width: 15.9rem;
+    height: 9.4rem;
+    margin-top: 14.2rem;
+    margin-left: 12.5rem;
+}
+.sing-in{
+    width: 37.4rem;
+    height: 5.6rem;
+    background-color: black;
+    margin-top: 43.6rem;
+    margin-left: 1.3rem;
+    border-radius: 1.8rem;
+    color: white;
+    text-align: center;
+    
+}
+.sing-in h1{
+    float: left;
+    font-style: normal;
+font-weight: 700;
+font-size: 2.39rem;
+line-height: 36px;
+margin-left: 14.3rem;
+margin-top: 0.9rem;
+font-family: 'Open Sans', sans-serif;
+}
+.create-account{
+    width: 37.4rem;
+    height: 5.6rem;
+    border: 0.1rem solid black;
+    margin-top: 1.6rem;
+    margin-left: 1.3rem;
+    border-radius: 1.8rem;
+    text-align: center;
+}
+.create-account h1{
+    
+    font-style: normal;
+font-weight: 700;
+font-size: 2.39rem;
+line-height: 36px;
+margin-top: auto;
+font-family: 'Open Sans', sans-serif;
+margin-top: 0.8rem
+}
+.need-help{
+    float: left;
+    margin-top: 2.3rem;
+    margin-left: 15.5rem;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2rem ;
+    line-height: 30px;
+}
+
